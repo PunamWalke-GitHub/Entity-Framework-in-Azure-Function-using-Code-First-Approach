@@ -5,6 +5,6 @@
     "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
   },
   "ConnectionStrings": {
-    "BankContext": "data source=PWDTLBT20202;initial catalog=functions-ef-sample;integrated security=true;MultipleActiveResultSets=true"
+    "BankContext": "data source=ServerName;initial catalog=DatabaseName;integrated security=true;MultipleActiveResultSets=true"
   }
 }
