@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
+  },
+  "ConnectionStrings": {
+    "BankContext": "data source=PWDTLBT20202;initial catalog=functions-ef-sample;integrated security=true;MultipleActiveResultSets=true"
+  }
+}

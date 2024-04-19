@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dtladmin\\source\\repos\\AzureFunctionsEntityFrameworkExamples\\EntityFrameworkExample\\CodeFirstExample\\CodeFirstExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dtladmin\\source\\repos\\AzureFunctionsEntityFrameworkExamples\\EntityFrameworkExample\\CodeFirstExample\\CodeFirstExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dtladmin\\source\\repos\\AzureFunctionsEntityFrameworkExamples\\EntityFrameworkExample\\CodeFirstExample\\CodeFirstExample.csproj",
+        "projectName": "CodeFirstExample",
+        "projectPath": "C:\\Users\\dtladmin\\source\\repos\\AzureFunctionsEntityFrameworkExamples\\EntityFrameworkExample\\CodeFirstExample\\CodeFirstExample.csproj",
+        "packagesPath": "C:\\Users\\dtladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dtladmin\\source\\repos\\AzureFunctionsEntityFrameworkExamples\\EntityFrameworkExample\\CodeFirstExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dtladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
